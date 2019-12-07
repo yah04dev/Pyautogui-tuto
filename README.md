@@ -9,3 +9,6 @@ pip3 install pyautogui
 then run it by 
 
 python3 tutorial.py
+or if you went to know your moose posion run 
+
+python3 your_mouse_position.py
